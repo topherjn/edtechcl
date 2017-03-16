@@ -1,8 +1,6 @@
-# Introduction to EdTech
+# Introduction to Educational Technology
 
-Introduction to Educational Technology (Coming Soon!)
-
-## ALL these files need to be ported into github
+__Introduction to Educational Technology (Coming Soon!)__
 
 [Survey of EdTech](https://www.udacity.com/wiki/Educational_Technology/Introduction_to_EdTech/Survey_Of_EdTech)
 

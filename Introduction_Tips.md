@@ -1,6 +1,5 @@
 # Tips for Class
 
-## __ALL these files need to be ported into the github site__
 [Two Tracks: Design and Research](https://www.udacity.com/wiki/Educational_Technology/Tips_For_The_Class/Two_Tracks_Design_And_Research)
 
 [CITI Training](https://www.udacity.com/wiki/Educational_Technology/Tips_For_The_Class/CITI_Training)
