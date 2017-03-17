@@ -2,7 +2,7 @@
 
 # Tips for the Class
 
-[Two Tracks: Design and Research](https://www.udacity.com/wiki/Educational_Technology/Tips_For_The_Class/Two_Tracks_Design_And_Research)
+[Two Tracks: Design and Research](./Tips_TwoTracks.md)
 
 [CITI Training](https://www.udacity.com/wiki/Educational_Technology/Tips_For_The_Class/CITI_Training)
 

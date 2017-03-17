@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c608bb4-efbd-4dc8-9bc8-ba9cbb23023c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Technologies_OnlineLearning.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TipsForClass.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TipForClass.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tips_CITI.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tips_HowToReadPubs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tips_TwoTracks.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RPM_ControlledExperiments.md" afterPath="$PROJECT_DIR$/RPM_ControlledExperiments.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RPM_DesignBasedResearch.md" afterPath="$PROJECT_DIR$/RPM_DesignBasedResearch.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RPM_QualitativeResearch.md" afterPath="$PROJECT_DIR$/RPM_QualitativeResearch.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RPM_QuantitativeResearch.md" afterPath="$PROJECT_DIR$/RPM_QuantitativeResearch.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RPM_ResearchBasics.md" afterPath="$PROJECT_DIR$/RPM_ResearchBasics.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RPM_SurveyResearch.md" afterPath="$PROJECT_DIR$/RPM_SurveyResearch.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ResearchPrinciplesMethodologies.md" afterPath="$PROJECT_DIR$/ResearchPrinciplesMethodologies.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies.md" afterPath="$PROJECT_DIR$/Technologies.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_CompSuppCollabWork.md" afterPath="$PROJECT_DIR$/Technologies_CompSuppCollabWork.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_GameBasedLearning.md" afterPath="$PROJECT_DIR$/Technologies_GameBasedLearning.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_ITS.md" afterPath="$PROJECT_DIR$/Technologies_ITS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_LMS.md" afterPath="$PROJECT_DIR$/Technologies_LMS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_MOOCs.md" afterPath="$PROJECT_DIR$/Technologies_MOOCs.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_MobileDevices.md" afterPath="$PROJECT_DIR$/Technologies_MobileDevices.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_SimulationBasedLearning.md" afterPath="$PROJECT_DIR$/Technologies_SimulationBasedLearning.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Technologies_SocialNetworking.md" afterPath="$PROJECT_DIR$/Technologies_SocialNetworking.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TipsForClass.md" afterPath="$PROJECT_DIR$/TipsForClass.md" />
     </list>
     <ignored path="omscs6460-course-library.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,12 +27,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="master_original.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="master_original.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/master_original.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-238">
+              <first_editor relative-caret-position="-952">
                 <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Introduction_Tips.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Introduction_Tips.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="357">
+                <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tips_HowToReadPubs.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tips_HowToReadPubs.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tips_TwoTracks.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tips_TwoTracks.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="599">
+                <caret line="49" column="229" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="229" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -98,13 +128,17 @@
         <option value="$PROJECT_DIR$/Technologies_ITS.md" />
         <option value="$PROJECT_DIR$/Technologies_LMS.md" />
         <option value="$PROJECT_DIR$/TipForClass.md" />
-        <option value="$PROJECT_DIR$/TipsForClass.md" />
         <option value="$PROJECT_DIR$/Technologies_MobileDevices.md" />
         <option value="$PROJECT_DIR$/Technologies_MOOCs.md" />
         <option value="$PROJECT_DIR$/Technologies_SimulationBasedLearning.md" />
         <option value="$PROJECT_DIR$/Technologies_SocialNetworking.md" />
         <option value="$PROJECT_DIR$/Technologies_OnlineLearning.md" />
         <option value="$PROJECT_DIR$/Technologies.md" />
+        <option value="$PROJECT_DIR$/Tips_TwoTracks.md" />
+        <option value="$PROJECT_DIR$/TipsForClass.md" />
+        <option value="www.udacity.com/wiki/Educational_Technology/Tips_For_The_Class/Two_Tracks_Design_And_Research" />
+        <option value="$PROJECT_DIR$/Tips_CITI.md" />
+        <option value="$PROJECT_DIR$/Tips_HowToReadPubs.md" />
       </list>
     </option>
   </component>
@@ -147,24 +181,7 @@
     <panes>
       <pane id="Scratches" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="omscs6460-course-library" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="omscs6460-course-library" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="omscs6460-course-library" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
@@ -187,6 +204,9 @@
     <property name="js-jscs-nodeInterpreter" value="E:\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://www.udacity.com/wiki/Educational_Technology/Tips_For_The_Class/Two_Tracks_Design_And_Research" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\WebstormProjects\omscs6460-course-library" />
     </key>
@@ -260,7 +280,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489663021319</updated>
       <workItem from="1489663022630" duration="3740000" />
-      <workItem from="1489707836828" duration="5925000" />
+      <workItem from="1489707836828" duration="8300000" />
     </task>
     <task id="LOCAL-00001" summary="master_original is a template to create other section and subsection files.&#10;This push completes the Broader Issues (BI) section and subsection pages.  The leaf node pages still need to be developed.">
       <created>1489666291359</created>
@@ -297,17 +317,24 @@
       <option name="project" value="LOCAL" />
       <updated>1489711417300</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="RPM and Technologies section header and subsections in md style">
+      <created>1489714809289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489714809289</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9665000" />
+    <option name="totallyTimeSpent" value="12040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20379147" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20379147" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -324,6 +351,24 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20379147" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -341,7 +386,8 @@
     <MESSAGE value="Removed information contained in punchdown list." />
     <MESSAGE value="changed formatting from [ ... (video)] to [(video)], which aligns better with [(On YouTube)]" />
     <MESSAGE value="Pedagogical Styles section header and subsections in md style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pedagogical Styles section header and subsections in md style" />
+    <MESSAGE value="RPM and Technologies section header and subsections in md style" />
+    <option name="LAST_COMMIT_MESSAGE" value="RPM and Technologies section header and subsections in md style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -522,19 +568,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="51">
             <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction_Tips.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -803,19 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TipsForClass.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Technologies_CompSuppCollabWork.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -946,11 +966,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TipsForClass.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://www.udacity.com/wiki/Educational_Technology/Tips_For_The_Class/Two_Tracks_Design_And_Research">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tips_CITI.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/master_original.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-238">
+          <first_editor relative-caret-position="-952">
             <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction_Tips.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tips_HowToReadPubs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tips_TwoTracks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="599">
+            <caret line="49" column="229" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="229" />
             <folding />
           </first_editor>
           <second_editor>
