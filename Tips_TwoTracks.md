@@ -25,8 +25,8 @@ In a research project, you're typically trying to investigate a phenomenon that 
 If you choose to do a research project, you'll want to:
 
 
-* Understand and very clearly define the phenomenon you want to investigate. Sometimes defining the phenomenon may even be part of the research.</li>
-* Understand the current theories and methodologies that have been applied to this phenomenon.</li>
+* Understand and very clearly define the phenomenon you want to investigate. Sometimes defining the phenomenon may even be part of the research.
+* Understand the current theories and methodologies that have been applied to this phenomenon.
 * Understand the research methodologies that would give the data necessary to make useful statements about the phenomenon.
 
 
