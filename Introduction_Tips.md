@@ -16,6 +16,6 @@
 
 [Project Ideas](./Tips_ProjectIdeas.md)
 
-[Exemplary Peer Reviews](./Tips_ExmplaryPeerReviews.md)
+[Exemplary Peer Reviews](./Tips_ExemplaryPeerReviews.md)
 
-[How to Give and Receive Effective Peer Reviews](./Tips_EffectivePeerReviews.md)
+[How to Give and Receive Effective Peer Reviews](./Tips_HowToPeerReview.md)
