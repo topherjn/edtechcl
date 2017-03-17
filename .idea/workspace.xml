@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8c608bb4-efbd-4dc8-9bc8-ba9cbb23023c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Introduction_CourseIntro.md" afterPath="$PROJECT_DIR$/Introduction_CourseIntro.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PS_Constructionism.md" afterPath="$PROJECT_DIR$/PS_Constructionism.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PS_FormativeAssessment.md" afterPath="$PROJECT_DIR$/PS_FormativeAssessment.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PS_Metacognition.md" afterPath="$PROJECT_DIR$/PS_Metacognition.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PS_ProblemBasedLearning.md" afterPath="$PROJECT_DIR$/PS_ProblemBasedLearning.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PS_ProjectBasedLearning.md" afterPath="$PROJECT_DIR$/PS_ProjectBasedLearning.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PS_SocialLearning.md" afterPath="$PROJECT_DIR$/PS_SocialLearning.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PedagogicalStyles.md" afterPath="$PROJECT_DIR$/PedagogicalStyles.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PS_CommunitiesOfPractive.md" afterPath="$PROJECT_DIR$/PS_CommunitiesOfPractice.md" />
     </list>
     <ignored path="omscs6460-course-library.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,27 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="master_original.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="master_original.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/master_original.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-680">
-                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Introduction_CourseIntro.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduction_CourseIntro.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -72,11 +64,17 @@
         <option value="$PROJECT_DIR$/BI_Identity.md" />
         <option value="$PROJECT_DIR$/BI_OpenProblems.md" />
         <option value="$PROJECT_DIR$/BI_Privacy.md" />
-        <option value="$PROJECT_DIR$/master_original.md" />
         <option value="$PROJECT_DIR$/BI_Underserved.md" />
         <option value="$PROJECT_DIR$/Introduction_IntroEdTech.md" />
         <option value="$PROJECT_DIR$/Introduction_Tips.md" />
         <option value="$PROJECT_DIR$/Introduction_CourseIntro.md" />
+        <option value="$PROJECT_DIR$/PedagogicalStyles.md" />
+        <option value="$PROJECT_DIR$/PS_Constructionism.md" />
+        <option value="$PROJECT_DIR$/PS_FormativeAssessment.md" />
+        <option value="$PROJECT_DIR$/master_original.md" />
+        <option value="$PROJECT_DIR$/PS_ProblemBasedLearning.md" />
+        <option value="$PROJECT_DIR$/PS_ProjectBasedLearning.md" />
+        <option value="$PROJECT_DIR$/PS_SocialLearning.md" />
       </list>
     </option>
   </component>
@@ -232,7 +230,7 @@
       <option name="presentableId" value="Default" />
       <updated>1489663021319</updated>
       <workItem from="1489663022630" duration="3740000" />
-      <workItem from="1489707836828" duration="734000" />
+      <workItem from="1489707836828" duration="1951000" />
     </task>
     <task id="LOCAL-00001" summary="master_original is a template to create other section and subsection files.&#10;This push completes the Broader Issues (BI) section and subsection pages.  The leaf node pages still need to be developed.">
       <created>1489666291359</created>
@@ -248,11 +246,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489666762886</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed formatting from [ ... (video)] to [(video)], which aligns better with [(On YouTube)]">
+      <created>1489709652898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1489709652898</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4474000" />
+    <option name="totallyTimeSpent" value="5691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -290,7 +295,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master_original is a template to create other section and subsection files.&#10;This push completes the Broader Issues (BI) section and subsection pages.  The leaf node pages still need to be developed." />
     <MESSAGE value="Removed information contained in punchdown list." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed information contained in punchdown list." />
+    <MESSAGE value="changed formatting from [ ... (video)] to [(video)], which aligns better with [(On YouTube)]" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed formatting from [ ... (video)] to [(video)], which aligns better with [(On YouTube)]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -505,11 +511,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/master_original.md">
+    <entry file="file://$PROJECT_DIR$/Introduction_CourseIntro.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-680">
-            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor>
@@ -518,11 +524,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction_CourseIntro.md">
+    <entry file="file://$PROJECT_DIR$/CourseIntroduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS_CommunitiesOfPractice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PedagogicalStyles.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS_Constructionism.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS_FormativeAssessment.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS_Metacognition.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS_ProblemBasedLearning.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS_ProjectBasedLearning.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PS_SocialLearning.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/master_original.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
