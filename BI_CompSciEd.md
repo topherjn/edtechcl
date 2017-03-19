@@ -1,4 +1,8 @@
-# Computer Science Education
+---
+layout: posts
+title: Computer Science
+---
+# Computer Science Educational Technology
 
 
 ## Introduction to Computer Science Education (Coming Soon!)

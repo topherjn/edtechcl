@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Research Principles and Methodologies
+---
 
 # Research Principles and Methodologies
 

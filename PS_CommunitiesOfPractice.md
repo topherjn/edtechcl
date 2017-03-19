@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Communities of Practice
+---
 
 # Communities of Practice
 

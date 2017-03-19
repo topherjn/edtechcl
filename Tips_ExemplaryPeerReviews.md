@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Exemplary Peer Reviews
+---
 # Tips For The Class: Exemplary Peer Reviews
 
 This class leverages the benefits of peer review frequently. On every assignment,

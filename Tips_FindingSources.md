@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Finding Sources
+---
 # Tips For The Class: Finding Sources and Articles
 
 We've provided a number of sources on a variety of topics to get you started 

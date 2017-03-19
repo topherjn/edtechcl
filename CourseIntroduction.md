@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Course Introduction
+---
 # Table of Contents
 
 __Note: If these links don't work for you, please submit a change request [here](./Error_Not_Found.html)__

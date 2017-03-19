@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Two Tracks in Educational Technology
+---
 # Tips For The Class
 
 ## Two Tracks: Design and Research

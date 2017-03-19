@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Open Problems
+---
 
 # Open Problems
 

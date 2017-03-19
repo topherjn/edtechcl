@@ -1,3 +1,7 @@
+---
+layout: posts
+title: How to Peer Review
+---
 # Tips For The Class: How to Give and Receive Effective Peer Reviews
 
 This class involves a lot of peer review assignments; in the Spring 2016 version,

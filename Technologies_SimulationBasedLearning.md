@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Simulation Based Learning
+---
 
 # Simulation-Based Learning
 

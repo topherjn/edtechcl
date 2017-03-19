@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Controlled Experiments
+---
 # Controlled Experiments
 
 

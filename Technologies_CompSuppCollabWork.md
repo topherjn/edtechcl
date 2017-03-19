@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Computer-Supported Collaborative Work
+---
 
 
 # Computer-Supported Collaborative Work

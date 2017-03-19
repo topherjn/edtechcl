@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Qualitative Research
+---
 # Qualitative Research
 
 

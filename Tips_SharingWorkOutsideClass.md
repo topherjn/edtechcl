@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Sharing Work Outside of Class
+---
 # Sharing Your Work Outside the Class
 
 You are _never_ required to share anything you do in this class outside the class.

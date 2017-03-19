@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Project Ideas
+---
 # Tips For The Class: Project Ideas
 
 While brainstorming this class, we came up with a few sample ideas for possible projects. 

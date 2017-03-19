@@ -1,6 +1,9 @@
+---
+layout: posts
+title: Mobile devices
+---
 
-
-# Mobile Devices
+# Mobile Educational Technology
 
 
 Introduction to Mobile Devices [(Video)](https://www.udacity.com/course/viewer#%21/c-ud915/l-4797360885/m-4856158604) | [(On YouTube)](https://www.youtube.com/watch?v=66-Pq2o1ze4)

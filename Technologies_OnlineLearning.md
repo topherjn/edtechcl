@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Online Learning
+---
 # Online Learning
 
 Introduction to Online Learning [(Video)](https://www.udacity.com/course/viewer#%21/c-ud915/l-4797360886/m-4801211330) | [(On YouTube)](https://www.youtube.com/watch?v=kjlAfs5RQXI)

@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Technologies
+---
 
 # Technologies
 

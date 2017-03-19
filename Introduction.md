@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Introduction
+---
 # Introduction
 
 [Course Introduction](./Introduction_CourseIntro.md)

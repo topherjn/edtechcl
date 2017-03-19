@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Social Networking
+---
 # Social Networking
 
 

@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Course Introduction Videos
+---
 # Course Introduction
 
 

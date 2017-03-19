@@ -1,3 +1,7 @@
+---
+layout: posts
+title: How to Read Academic Papers
+---
 # How to Read an Academic Publication
 
 In this course library, you'll encounter a lot of different kinds of sources:

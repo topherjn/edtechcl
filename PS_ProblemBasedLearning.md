@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Problem-Based Learning
+---
 # Problem-Based Learning
 
 

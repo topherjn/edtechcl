@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Gender, Technology, and Education
+---
 
 # Gender, Technology, and Education
 

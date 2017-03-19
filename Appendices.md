@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Appendices
+---
 # Appendices
 
 [Previous Semester Materials](./AppendixA_CurrentSemesterMaterials.md)

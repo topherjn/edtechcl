@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Identity, TEchnology, and Education
+---
 # Identity, Technology, and Education
 
 __Introduction to Identity, Technology, and Education (Coming Soon!)__

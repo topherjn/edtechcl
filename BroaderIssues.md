@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Broader Issues
+---
 # Broader Issues
 
 [Gender, Technology, and Education](./BI_Gender.md)

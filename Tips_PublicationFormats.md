@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Publication Formats
+---
 # Tips For The Class: Publication Formats and Destinations
 
 ## Types of Publications

@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Game Based Learning
+---
 # Game-Based Learning
 
 

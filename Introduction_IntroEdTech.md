@@ -1,4 +1,8 @@
-# Introduction to Educational Technology
+---
+layout: posts
+title: Introduction to Educational Technology
+---
+# Introduction to Educational Technology (EdTech)
 
 __Introduction to Educational Technology (Coming Soon!)__
 

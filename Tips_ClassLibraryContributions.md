@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Library Contributions
+---
 # Tips For The Class: Contributing to the Library
 
 This library is intended to be a living, expanding compendium of information and topics. While we've done our best to seed it with some initial information, we're absolutely hoping to see it expand over time. But while the library is constructed on a wiki infrastructure, we're initially keeping editing closer&nbsp;— the wiki software here doesn't allow us to toggle permissions based solely on whether you're enrolled in the class, and at least for now, we'd like to prevent anyone on the internet from being able to modify these pages. This might change later.

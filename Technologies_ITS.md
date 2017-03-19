@@ -1,5 +1,9 @@
+---
+layout: posts
+title: Intelligent Tutoring Systems
+---
 
-# Intelligent Tutoring Systems
+# Intelligent Tutoring Systems (ITS)
 
 
 Introduction to Intelligent Tutoring Systems [(Video)](https://www.udacity.com/course/viewer#%21/c-ud915/l-4855129497/m-4860999835) | [(On YouTube)](https://www.youtube.com/watch?v=JKFujZMfObo)

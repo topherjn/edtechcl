@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Pedagogical Styles
+---
 
 # Pedagogical Styles
 

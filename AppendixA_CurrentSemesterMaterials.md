@@ -1,3 +1,8 @@
+---
+layout: posts
+title: Previous Semester Materials
+---
+
 # Previous Semester Materials
 
 [CS6460: Educational Technology Overview](https://www.udacity.com/wiki/ud915)

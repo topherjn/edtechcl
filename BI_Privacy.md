@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Privacy
+---
 
 # Privacy in Educational Technology
 

@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Research Basics
+---
 # Research Basics
 
 

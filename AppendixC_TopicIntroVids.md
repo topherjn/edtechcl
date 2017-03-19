@@ -1,4 +1,9 @@
-# Topic Introduction Videos
+---
+layout: posts
+title: Introduction Videos
+---
+
+# Educational Technology Topic Introduction Videos
 
 
 Introduction to Educational Technology (Coming Soon!)

@@ -1,3 +1,8 @@
+---
+layout: posts
+title: Educational Technology in the Classroom
+---
+
 # Technology in the Classroom
 
 __Introduction to Technology in the Classroom (Coming Soon!)__

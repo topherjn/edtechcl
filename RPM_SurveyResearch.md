@@ -1,4 +1,7 @@
-
+---
+layout: posts
+title: Survey Research
+---
 # Survey Research
 
 

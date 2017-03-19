@@ -1,3 +1,8 @@
+---
+layout: posts
+title: The Business of EdTech
+---
+
 # The Business of EdTech
 
 

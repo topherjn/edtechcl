@@ -1,3 +1,8 @@
+---
+layout: posts
+title: Ethics and Educational Technology
+---
+
 # Ethics and EdTech
 
 _Introduction to Ethics and EdTech (Coming Soon!)_

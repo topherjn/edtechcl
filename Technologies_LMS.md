@@ -1,6 +1,9 @@
+---
+layout: posts
+title: Learning Management Systems
+---
 
-
-# Learning Management Systems
+# Learning Management Systems (LMS)
 
 
 Introduction to Learning Management Systems [(Video)](https://www.udacity.com/course/viewer#%21/c-ud915/l-4855129496/m-4856099488) | [(On YouTube)](https://www.youtube.com/watch?v=wdBEU2HzQfY)

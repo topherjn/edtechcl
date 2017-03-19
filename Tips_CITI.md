@@ -1,3 +1,7 @@
+---
+layout: posts
+title: CITI
+---
 # CITI Training
 
 An [Institutional Review Board](https://en.wikipedia.org/wiki/Institutional_review_board), or IRB,

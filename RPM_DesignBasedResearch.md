@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Design-Based Research
+---
 
 # Design-Based Research
 

@@ -25,9 +25,9 @@ from me.
 ### [Introduction](./Introduction.md)
 ### [Research Principles and Methodologies](./ResearchPrinciplesMethodologies.md)
 ### [Pedagogical Styles](./PedagogicalStyles.md)
-### []()
-### []()
-### []()
-### []()
+### [Technologies](./Technologies.md)
 ### [Broader Issues](./BroaderIssues.md)
+
+### [Tips for Class](./Tips.md)
+
 ### [Appendices](./Appendices.md)

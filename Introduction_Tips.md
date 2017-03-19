@@ -1,3 +1,7 @@
+---
+layout: posts
+title: Tips for Class
+---
 # Tips for Class
 
 [Two Tracks: Design and Research](./Tips_TwoTracks.md)
