@@ -1,6 +1,8 @@
 ---
 layout: posts
 title: Introduction
+categories: [TOC, Introduction]
+tags: [TOC, Introduction]
 ---
 # Introduction
 
