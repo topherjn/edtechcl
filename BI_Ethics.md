@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: Ethics and Educational Technology
+title: [Ethics-and-Educational-Technology]
+tags: [TOC, broader-issues, ethics]
 ---
 
 # Ethics and EdTech

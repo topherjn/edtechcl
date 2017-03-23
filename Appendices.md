@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Appendices
+tags: [TOC, appendix]
 ---
 # Appendices
 

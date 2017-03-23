@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: Identity, TEchnology, and Education
+title: [Identity-Technology-and-Education]
+tags: [TOC, identity, broader-issues]
 ---
 # Identity, Technology, and Education
 

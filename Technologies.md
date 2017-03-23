@@ -1,6 +1,8 @@
 ---
 layout: posts
 title: Technologies
+categories: [TOC, Technologies]
+tags: [TOC, Technologies]
 ---
 
 # Technologies

@@ -13,18 +13,18 @@ title: Previous Semester Materials
 
 [Assignment: Reflective Assignment 1](https://www.udacity.com/wiki/ud915/Fall2015/Assignment_1)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Assignment_2">Assignment: Reflective Assignment 2</a></li>
+[Assignment: Reflective Assignment 2](https://www.udacity.com/wiki/ud915/Fall2015/Assignment_2)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Mini-Proposal">Assignment: Mini-Proposal</a></li>
+[Assignment: Mini-Proposal](https://www.udacity.com/wiki/ud915/Fall2015/Mini-Proposal)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Personal_Question">Assignment: Personal Question</a></li>
+[Assignment: Personal Question](https://www.udacity.com/wiki/ud915/Fall2015/Personal_Question)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Proposal">Assignment: Project Proposal</a></li>
+[Assignment: Project Proposal](https://www.udacity.com/wiki/ud915/Fall2015/Proposal)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Weekly_Status_Check">Assignment: Weekly Status Checks</a></li>
+[Assignment: Weekly Status Checks](https://www.udacity.com/wiki/ud915/Fall2015/Weekly_Status_Check)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Progress_Report">Assignment: Progress Report</a></li>
+[Assignment: Progress Report](https://www.udacity.com/wiki/ud915/Fall2015/Progress_Report)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Trailer">Assignment: Trailer</a></li>
+[Assignment: Trailer](https://www.udacity.com/wiki/ud915/Fall2015/Trailer)
 
-<li><a href="https://www.udacity.com/wiki/ud915/Fall2015/Project">Assignment: Final Project</a></li>
+[Assignment: Final Project](https://www.udacity.com/wiki/ud915/Fall2015/Project)

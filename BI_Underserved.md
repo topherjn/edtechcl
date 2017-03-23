@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: Underserved Communities
+title: [Underserved-Communities]
+tags: [TOC, underserved, communities, community, broader-issues, issues]
 ---
 
 # Underserved Communities and Educational Technology

@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: Privacy
+title: [Privacy]
+tags: [broader-issues, privacy]
 ---
 
 # Privacy in Educational Technology
