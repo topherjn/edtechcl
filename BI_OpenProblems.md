@@ -1,9 +1,8 @@
 ---
 layout: posts
-title: [Open-Problems]
-tags: [TOC, open-problems, broader-issues]
+title: Open Problems
+categories: [broader issues, open problems]
 ---
-
 # Open Problems
 
 

@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: [Educational-Technology-in-the-Classroom]
-tags: [TOC, broader-issues, classroom]
+title: "Educational Technology in the Classroom"
+categories: [broader issues, classroom technology]
 ---
 
 # Technology in the Classroom

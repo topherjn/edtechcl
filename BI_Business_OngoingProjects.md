@@ -1,10 +1,11 @@
 ---
 layout: posts
-title: [The-Business-of-EdTech, Ongoing-Projects]
-tags: [TOC, broader-issues, business, Ongoing-Projects]
+title: "The Business of Ed Tech: Ongoing Projects"
+categories: [broader issues, business]
+topics: ongoing projects
 ---
 
-# Business of EdTech: Ongoing Project
+# Business of EdTech: Ongoing Projects
 
 __No content yet!__
 

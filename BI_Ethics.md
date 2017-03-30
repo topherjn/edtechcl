@@ -1,7 +1,7 @@
 ---
-layout: posts
-title: [Ethics-and-Educational-Technology]
-tags: [TOC, broader-issues, ethics]
+layout: page
+title: Ethics and Educational Technology
+categories: [broader issues, ethics]
 ---
 
 # Ethics and EdTech
@@ -17,4 +17,3 @@ _Introduction to Ethics and EdTech (Coming Soon!)_
 [Ongoing Projects](https://www.udacity.com/wiki/Educational_Technology/Ethics_and_EdTech/Ongoing_Projects)
 
 [In the Media](https://www.udacity.com/wiki/Educational_Technology/Ethics_and_EdTech/In_the_Media)
-

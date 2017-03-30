@@ -1,12 +1,11 @@
 ---
 layout: posts
-title: "Classroom Technology: Biographies"
-categories: [broader issues, classroom technology]
-topics: bios
+title: "Gender: Ongoing Projects"
+categories: [broader issues, gender]
+topics: ongoing projects
+
 ---
 
-# Classroom Technology: Researcher and Research Group Biographies
-
-__No content yet!__
+# Gender: Ongoing Projects
 
 __Interested in adding to this page?__ Please complete and submit our [contribution form](https://docs.google.com/forms/d/19Z8PwYZ-JQn_EIds5M3YfwgVGKJdTadeknPt770c8RU/viewform?usp=send_form) and we'll process your additions soon!

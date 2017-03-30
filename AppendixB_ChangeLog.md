@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: [Change-Log]
+title: Change Log
+topics: changes
 ---
 
 # Changelog

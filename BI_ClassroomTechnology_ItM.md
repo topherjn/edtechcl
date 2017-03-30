@@ -1,7 +1,8 @@
 ---
 layout: posts
-title: [Classroom-Technolgoy, In-The-Media]
-tags: [TOC, broader-issues, classroom, media]
+title: "Classroom Technology: In the Media"
+categories: [broader issues, classroom technology]
+topics: in the media
 ---
 
 # Classroom Technology: In The Media

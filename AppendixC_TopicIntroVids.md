@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: [Introduction Videos]
-tags: [appendix, introduction, video]
+title: Introduction Videos
+topics: introduction videos
 ---
 
 # Educational Technology Topic Introduction Videos

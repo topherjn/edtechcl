@@ -1,7 +1,8 @@
 ---
 layout: posts
-title: [Classroom-Technolgoy, Academic-Research-Papers]
-tags: [TOC, broader-issues, classroom, Research-Papers, Academic, Academic-Research-Papers]
+title: "Classroom Technology: Academic Research Papers"
+categories: [broader issues, classroom technology]
+topics: scholarly papers
 ---
 
 # Classroom Technology: Scholarly Readings

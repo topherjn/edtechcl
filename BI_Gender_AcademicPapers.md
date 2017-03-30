@@ -1,7 +1,8 @@
 ---
 layout: posts
-title: [Gender-Technology-and-Education, Academic-Research-Papers]
-tags: [TOC, broader-issues, gender, Research-Papers, Academic, Academic-Research-Papers]
+title: "Gender Technology and Education: Academic Research Papers"
+categories: [broader issues, gender]
+topics: scholarly readings
 ---
 
 # Gender, Technology, and Education: Scholarly Readings

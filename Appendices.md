@@ -1,14 +1,15 @@
 ---
 layout: posts
 title: Appendices
-tags: [TOC, appendix]
+tags: TOC appendix
+categories: appendix
 ---
 # Appendices
 
-[Previous Semester Materials](./AppendixA_CurrentSemesterMaterials.md)
+[Previous Semester Materials](./AppendixA_CurrentSemesterMaterials.html)
 
-[ChangeLog](./changelog.md)
+[ChangeLog](./changelog.html)
 
-[Topic Introduction Videos](./AppendixC_TopicIntroVids.md)
+[Topic Introduction Videos](./AppendixC_TopicIntroVids.html)
 
-[Interviews](./AppendixD_Interviews.md)
+[Interviews](./AppendixD_Interviews.html)

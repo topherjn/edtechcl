@@ -1,7 +1,6 @@
 ---
 layout: posts
-title: [Broader-Issues]
-tags: [broader-issues, TOC]
+title: Broader Issues
 ---
 # Broader Issues
 

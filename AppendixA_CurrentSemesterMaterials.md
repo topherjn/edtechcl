@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Previous Semester Materials
+topics: current semester
 ---
 
 # Previous Semester Materials

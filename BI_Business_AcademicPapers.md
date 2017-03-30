@@ -1,7 +1,8 @@
 ---
 layout: posts
-title: [The-Business-of-EdTech, Academic-Research-Papers]
-tags: [TOC, broader-issues, business, Research-Papers, Academic, Academic-Research-Papers]
+title: "The Business of Ed Tech : Academic Research Papers"
+categories: [broader issues, business]
+topics: scholarly readings
 ---
 
 # Business of EdTech: Scholarly Readings

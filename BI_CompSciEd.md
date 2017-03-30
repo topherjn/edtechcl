@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: [Computer-Science]
-tags: [TOC, broader-issues, computer-science]
+title: Computer Science
+categories: [broader issues, computer science]
 ---
 # Computer Science Educational Technology
 

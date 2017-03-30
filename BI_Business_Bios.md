@@ -1,7 +1,8 @@
 ---
 layout: posts
-title: [The-Business-of-EdTech, Biographies]
-tags: [TOC, broader-issues, business, Biographies, Research-Groups]
+title: ["The Business of Ed Tech", Biographies]
+categories: [broader issues, business]
+topics: bios
 ---
 
 # Business of EdTech: Biography of Researchers and Research Groups

@@ -1,7 +1,8 @@
 ---
 layout: posts
-title: [Classroom-Technology, Introductory-Material]
-tags: [TOC, broader-issues, classroom-technology, Introductory-Material]
+title: "Classroom Technology: Introductory Material"
+categories: [broader issues, classroom technology]
+topics: introduction
 ---
 
 # Classroom Technology: Introductory Material

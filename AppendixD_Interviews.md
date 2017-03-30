@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: [Educational-Technology-Videos]
-tags: [TOC, appendix, all-topics, video, videos]
+title: Educational Technology Videos
+topics: interviews
 ---
 
 # Interviews

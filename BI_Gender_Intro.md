@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: [Gender-Technology-and-Education, Introductory-Material]
-tags: [TOC, broader-issues, gender, Introductory=Material]
+title: "Gender Technology and Education: Introductory Material"
+categories: [broader issues, gender]
+topics: introduction
 ---
-
 # Gender, Technology, and Education: Introductory Material
 
 __No content yet!__

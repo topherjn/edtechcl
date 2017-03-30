@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: [Gender-Technology-and-Education]
-tags: [TOC, gender, technology, education, broader-issues]
+title: "Gender, Technology, and Education"
+categories: [broader issues, gender]
 ---
 
 # Gender, Technology, and Education

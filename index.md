@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Educational Technology
 
 Welcome to the Educational Technology library. This library is
@@ -14,7 +17,7 @@ are embedded in the alternative library.
 
 This library is constantly growing. To catch up on the latest additions
 across the entire library since your last visit, please see the
-[change log](https://udacity.com/wiki/Educational_Technology/Changelog).
+[change log](./changelog.md).
 Generally speaking, this web site is constructed by course instructor
 [David Joyner](http://www.davidjoyner.net/), and any text presented
 in first-person can be assumed to come from him&nbsp;— or should I say,
@@ -22,12 +25,12 @@ from me.
 
 ## Table of Contents
 
-### [Introduction](./Introduction.md)
-### [Research Principles and Methodologies](./ResearchPrinciplesMethodologies.md)
-### [Pedagogical Styles](./PedagogicalStyles.md)
-### [Technologies](./Technologies.md)
-### [Broader Issues](./BroaderIssues.md)
+### [Introduction]({{base.url}}Introduction.html)
+### [Research Principles and Methodologies]({{base.url}}ResearchPrinciplesMethodologies.html)
+### [Pedagogical Styles]({{base.url}}PedagogicalStyles.html)
+### [Technologies]({{base.url}}Technologies.html)
+### [Broader Issues]({{base.url}}BroaderIssues.html)
 
-### [Tips for Class](./Tips.md)
+### [Tips for Class]({{base.url}}Tips.html)
 
-### [Appendices](./Appendices.md)
+### [Appendices]({{base.url}}Appendices.html)

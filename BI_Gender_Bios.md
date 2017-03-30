@@ -1,7 +1,8 @@
 ---
 layout: posts
-title: [Gender-Technology-and-Education, Biographies]
-tags: [TOC, broader-issues, gender, Biographies, Research-Groups]
+title: "Gender Technology and Education : Biographies"
+categories: [broader issues, gender]
+topics: bios
 ---
 
 # Gender, Technology, and Education: Researcher and Research Group Biographies
